@@ -1,0 +1,9 @@
+﻿  student.c
+student.c(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 20 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  izg_lab_01.vcxproj -> C:\Users\marek\Downloads\izg_lab_01_md\izg_lab_01\Release\izg_lab_01.exe
+  izg_lab_01.vcxproj -> C:\Users\marek\Downloads\izg_lab_01_md\izg_lab_01\Release\izg_lab_01.pdb (Full PDB)

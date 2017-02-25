@@ -1,0 +1,7 @@
+﻿  student.c
+c:\users\marek\downloads\izg_lab_01_md\izg_lab_01\student.c(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marek\downloads\izg_lab_01_md\izg_lab_01\student.c(112): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\marek\downloads\izg_lab_01_md\izg_lab_01\student.c(113): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\marek\downloads\izg_lab_01_md\izg_lab_01\student.c(114): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+  izg_lab_01.vcxproj -> C:\Users\marek\Downloads\izg_lab_01_md\izg_lab_01\Debug\izg_lab_01.exe
+  izg_lab_01.vcxproj -> C:\Users\marek\Downloads\izg_lab_01_md\izg_lab_01\Debug\izg_lab_01.pdb (Full PDB)
